@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConsecutivePractices</string>
+    <string name="movie">Фильм</string>
+    <string name="tv_series">Сериал</string>
+    <string name="anime">Аниме</string>
+    <string name="description">Описание</string>
+    <string name="no_results">По запросу нет результатов</string>
+</resources>
